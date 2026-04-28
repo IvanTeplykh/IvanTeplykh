@@ -72,14 +72,6 @@ E-commerce style product showcase
   <img src="https://streak-stats.demolab.com?user=IvanTeplykh&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 * 📧 Email: [ivantieplih@gmail.com](mailto:ivantieplih@gmail.com)
